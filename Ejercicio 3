@@ -1,0 +1,10 @@
+% Titulo: Tercer ejercicio
+% Descriocion: Script f(x)= f(x)=-x+1;[-2,3]
+% Autor: Irving Jeremy Martinez Avila @Neo
+% Fecha: Jueves 29 de abril del 2021
+clear
+fprintf ('El  valor del primer ejercicio es 13/2u^2')
+fprintf ('Grafica')
+x=-2:0.01:3;
+y=(-x+1);
+plot(x,y)

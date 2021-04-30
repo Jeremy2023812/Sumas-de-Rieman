@@ -1,0 +1,10 @@
+% Titulo: Segundo ejercicio
+% Descriocion: Script f(x)= f(x)=f(x)=x²-1;[1,4]
+% Autor: Irving Jeremy Martinez Avila @Neo
+% Fecha: Jueves 29 de abril del 2021
+clear
+fprintf ('El  valor del primer ejercicio es 18u^2')
+fprintf ('Grafica')
+x=1:0.01:4;
+y=(x.^2-1);
+plot(x,y)

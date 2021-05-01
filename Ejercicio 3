@@ -3,7 +3,7 @@
 % Autor: Irving Jeremy Martinez Avila @Neo
 % Fecha: Jueves 29 de abril del 2021
 clear
-fprintf ('El  valor del primer ejercicio es 13/2u^2')
+fprintf ('El  AREA del tercer ejercicio es 13/2u^2')
 fprintf ('Grafica')
 x=-2:0.01:3;
 y=(-x+1);

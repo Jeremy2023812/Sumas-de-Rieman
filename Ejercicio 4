@@ -1,9 +1,9 @@
-% Titulo: Tercer ejercicio
+% Titulo: Cuarto ejercicio
 % Descriocion: Script f(x)=4x+5;x=2,x=5
 % Autor: Irving Jeremy Martinez Avila @Neo
 % Fecha: Jueves 29 de abril del 2021
 clear
-fprintf ('El  valor del primer ejercicio es 13/2u^2')
+fprintf ('El  AREA del cuarto ejercicio es 13/2u^2')
 fprintf ('Grafica')
 x=-2:0.01:5;
 y=(4x+5);
